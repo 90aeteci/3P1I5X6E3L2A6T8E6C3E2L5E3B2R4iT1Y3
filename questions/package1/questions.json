@@ -1,0 +1,25 @@
+{
+  "imageRootUrl": "http://acb.com/",
+  "questions": [
+    {
+      "id": 1,
+      "image": "1.jpg",
+      "answer": "Adam Levine",
+      "bonusQuestions": "Adam Levine Adam Levine Adam Levine?",
+      "bonusChoices": "OMG|LOL|KIK|SAN",
+      "bonusAnswer": "LOL",
+      "copyRight": "Kai",
+      "copyRightUrl": "https://www.flickr.com/photos/130961559@N06/albums"
+    },
+    {
+      "id": 2,
+      "image": "1.jpg",
+      "answer": "Adam Levine",
+      "bonusQuestions": "Adam Levine Adam Levine Adam Levine?",
+      "bonusChoices": "OMG|LOL|KIK|SAN",
+      "bonusAnswer": "LOL",
+      "copyRight": "Kai",
+      "copyRightUrl": "https://www.flickr.com/photos/130961559@N06/albums"
+    }
+  ]
+}
