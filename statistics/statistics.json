@@ -1,4 +1,4 @@
 {
-  "version": 1,
-  "statistics": ["IsGoogleLogin", "NoDiamonds", "CurrentQuestions", "NoFacebookShare", "NoPurchases", "Scores"]
+  "version": 2,
+  "statistics": ["IsGoogleLogin", "NoDiamonds", "CurrentQuestions", "NoFacebookShare", "NoPurchases", "Scores", "NoDepixelates"]
 }
